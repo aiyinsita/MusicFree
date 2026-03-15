@@ -86,3 +86,7 @@ scripts/
 .expo
 dist/
 web-build/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
